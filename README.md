@@ -4,7 +4,7 @@
 
 * Bugfixes
 * Performance improvements
-* Features and components which are likely to be useful to the majority of Sapphire users
+* Features and components which are likely to be useful to the majority of users
 
 ## Things we won't merge
 
@@ -19,7 +19,7 @@
 
 ## Workflow
 
-* Fork the Sapphire repository
+* Fork the repository
 * Create a new branch in your fork (feature branch)
 * If it makes sense, add tests for your code
 * Make sure all tests pass
